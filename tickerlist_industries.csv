@@ -1,0 +1,239 @@
+,Ticker,Quandl_Code,Name,Industry,Exchange
+0,BHP,EOD/BHP,BHP Group,Basic Material,NYSE
+1,BBL,EOD/BBL,BHP Group,Basic Material,NYSE
+2,LIN,EOD/LIN,Linde plc,Basic Material,NYSE
+3,RIO,EOD/RIO,Rio Tinto Group,Basic Material,NYSE
+4,VALE,EOD/VALE,Vale S.A.,Basic Material,NYSE
+5,SHW,EOD/SHW,The Sherwin-Williams Company,Basic Material,NYSE
+6,SCCO,EOD/SCCO,Southern Copper Corporation,Basic Material,NYSE
+7,ECL,EOD/ECL,Ecolab Inc.,Basic Material,NYSE
+8,APD,EOD/APD,"Air Products and Chemicals, Inc.",Basic Material,NYSE
+9,FCX,EOD/FCX,Freeport-McMoRan Inc.,Basic Material,NYSE
+10,NEM,EOD/NEM,Newmont Corporation,Basic Material,NYSE
+11,DOW,EOD/DOW,Dow Inc.,Basic Material,NYSE
+12,DD,EOD/DD,"DuPont de Nemours, Inc.",Basic Material,NYSE
+13,GOLD,EOD/GOLD,Barrick Gold Corporation,Basic Material,NYSE
+14,IFF,EOD/IFF,International Flavors & Fragrances Inc.,Basic Material,NYSE
+15,CRH,EOD/CRH,CRH plc,Basic Material,NYSE
+16,CTVA,EOD/CTVA,"Corteva, Inc.",Basic Material,NYSE
+17,LYB,EOD/LYB,LyondellBasell Industries N.V.,Basic Material,NYSE
+18,PPG,EOD/PPG,"PPG Industries, Inc.",Basic Material,NYSE
+19,NTR,EOD/NTR,Nutrien Ltd.,Basic Material,NYSE
+20,MT,EOD/MT,ArcelorMittal,Basic Material,NYSE
+21,VMC,EOD/VMC,Vulcan Materials Company,Basic Material,NYSE
+22,FNV,EOD/FNV,Franco-Nevada Corporation,Basic Material,NYSE
+23,GOOG,EOD/GOOG,Alphabet Inc.,Communication Services,NASDAQ
+24,GOOGL,EOD/GOOGL,Alphabet Inc.,Communication Services,NASDAQ
+25,FB,EOD/FB,"Facebook, Inc.",Communication Services,NASDAQ
+26,DIS,EOD/DIS,The Walt Disney Company,Communication Services,NYSE
+27,NFLX,EOD/NFLX,"Netflix, Inc.",Communication Services,NASDAQ
+28,CMCSA,EOD/CMCSA,Comcast Corporation,Communication Services,NASDAQ
+29,VZ,EOD/VZ,Verizon Communications Inc.,Communication Services,NYSE
+30,T,EOD/T,AT&T Inc.,Communication Services,NYSE
+31,TMUS,EOD/TMUS,"T-Mobile US, Inc.",Communication Services,NYSE
+32,SE,EOD/SE,Sea Limited,Communication Services,NYSE
+33,ZM,EOD/ZM,"Zoom Video Communications, Inc.",Communication Services,NASDAQ
+34,ABNB,EOD/ABNB,"Airbnb, Inc.",Communication Services,NASDAQ
+35,CHTR,EOD/CHTR,"Charter Communications, Inc.",Communication Services,NASDAQ
+36,BIDU,EOD/BIDU,"Baidu, Inc.",Communication Services,NASDAQ
+37,SNAP,EOD/SNAP,Snap Inc.,Communication Services,NYSE
+38,NTES,EOD/NTES,"NetEase, Inc.",Communication Services,NASDAQ
+39,ATVI,EOD/ATVI,"Activision Blizzard, Inc.",Communication Services,NASDAQ
+40,SPOT,EOD/SPOT,Spotify Technology S.A.,Communication Services,NYSE
+41,TWLO,EOD/TWLO,Twilio Inc.,Communication Services,NYSE
+42,DASH,EOD/DASH,"DoorDash, Inc.",Communication Services,NYSE
+43,ROKU,EOD/ROKU,"Roku, Inc.",Communication Services,NASDAQ
+44,TWTR,EOD/TWTR,"Twitter, Inc.",Communication Services,NYSE
+45,PINS,EOD/PINS,"Pinterest, Inc.",Communication Services,NYSE
+46,VOD,EOD/VOD,Vodafone Group Plc,Communication Services,NASDAQ
+47,BILI,EOD/BILI,Bilibili Inc.,Communication Services,NASDAQ
+48,AMZN,EOD/AMZN,"Amazon.com, Inc.",Consumer Cyclical,NASDAQ
+49,TSLA,EOD/TSLA,"Tesla, Inc.",Consumer Cyclical,NASDAQ
+50,BABA,EOD/BABA,Alibaba Group Holding Limited,Consumer Cyclical,NYSE
+51,HD,EOD/HD,"The Home Depot, Inc.",Consumer Cyclical,NYSE
+52,PDD,EOD/PDD,Pinduoduo Inc.,Consumer Cyclical,NASDAQ
+53,NKE,EOD/NKE,"NIKE, Inc.",Consumer Cyclical,NYSE
+54,TM,EOD/TM,Toyota Motor Corporation,Consumer Cyclical,NYSE
+55,JD,EOD/JD,"JD.com, Inc.",Consumer Cyclical,NASDAQ
+56,MCD,EOD/MCD,McDonald's Corporation,Consumer Cyclical,NYSE
+57,LOW,EOD/LOW,"Lowe's Companies, Inc.",Consumer Cyclical,NYSE
+58,SBUX,EOD/SBUX,Starbucks Corporation,Consumer Cyclical,NASDAQ
+59,MELI,EOD/MELI,"MercadoLibre, Inc.",Consumer Cyclical,NASDAQ
+60,BKNG,EOD/BKNG,Booking Holdings Inc.,Consumer Cyclical,NASDAQ
+61,NIO,EOD/NIO,NIO Limited,Consumer Cyclical,NYSE
+62,TJX,EOD/TJX,"The TJX Companies, Inc.",Consumer Cyclical,NYSE
+63,GM,EOD/GM,General Motors Company,Consumer Cyclical,NYSE
+64,CVNA,EOD/CVNA,Carvana Co.,Consumer Cyclical,NYSE
+65,STLA,EOD/STLA,Stellantis N.V.,Consumer Cyclical,NYSE
+66,HMC,EOD/HMC,"Honda Motor Co., Ltd.",Consumer Cyclical,NYSE
+67,CHWY,EOD/CHWY,"Chewy, Inc.",Consumer Cyclical,NYSE
+68,F,EOD/F,Ford Motor Company,Consumer Cyclical,NYSE
+69,LVS,EOD/LVS,Las Vegas Sands Corp.,Consumer Cyclical,NYSE
+70,MAR,EOD/MAR,"Marriott International, Inc.",Consumer Cyclical,NASDAQ
+71,LULU,EOD/LULU,Lululemon Athletica Inc.,Consumer Cyclical,NASDAQ
+72,ROST,EOD/ROST,"Ross Stores, Inc.",Consumer Cyclical,NASDAQ
+73,WMT,EOD/WMT,Walmart Inc.,Consumer Defensive,NYSE
+74,PG,EOD/PG,The Procter & Gamble Company,Consumer Defensive,NYSE
+75,UL,EOD/UL,Unilever PLC,Consumer Defensive,NYSE
+76,KO,EOD/KO,The Coca-Cola Company,Consumer Defensive,NYSE
+77,PEP,EOD/PEP,"PepsiCo, Inc.",Consumer Defensive,NYSE
+78,COST,EOD/COST,Costco Wholesale Corporation,Consumer Defensive,NASDAQ
+79,PM,EOD/PM,Philip Morris International Inc.,Consumer Defensive,NYSE
+80,BUD,EOD/BUD,Anheuser-Busch InBev SA/NV,Consumer Defensive,NYSE
+81,EL,EOD/EL,The Estée Lauder Companies Inc.,Consumer Defensive,NYSE
+82,DEO,EOD/DEO,Diageo plc,Consumer Defensive,NYSE
+83,TGT,EOD/TGT,Target Corporation,Consumer Defensive,NYSE
+84,BTI,EOD/BTI,British American Tobacco p.l.c.,Consumer Defensive,NYSE MKT
+85,MO,EOD/MO,"Altria Group, Inc.",Consumer Defensive,NYSE
+86,MDLZ,EOD/MDLZ,"Mondelez International, Inc.",Consumer Defensive,NASDAQ
+87,CL,EOD/CL,Colgate-Palmolive Company,Consumer Defensive,NYSE
+88,TAL,EOD/TAL,TAL Education Group,Consumer Defensive,NYSE
+89,DG,EOD/DG,Dollar General Corporation,Consumer Defensive,NYSE
+90,MNST,EOD/MNST,Monster Beverage Corporation,Consumer Defensive,NASDAQ
+91,KHC,EOD/KHC,The Kraft Heinz Company,Consumer Defensive,NASDAQ
+92,KMB,EOD/KMB,Kimberly-Clark Corporation,Consumer Defensive,NYSE
+93,KDP,EOD/KDP,Keurig Dr Pepper Inc.,Consumer Defensive,NYSE
+94,STZ,EOD/STZ,"Constellation Brands, Inc.",Consumer Defensive,NYSE
+95,SYY,EOD/SYY,Sysco Corporation,Consumer Defensive,NYSE
+96,XOM,EOD/XOM,Exxon Mobil Corporation,Energy,NYSE
+97,CVX,EOD/CVX,Chevron Corporation,Energy,NYSE
+98,PTR,EOD/PTR,PetroChina Company Limited,Energy,NYSE
+99,TOT,EOD/TOT,TOTAL SE,Energy,NYSE
+100,SNP,EOD/SNP,China Petroleum & Chemical Corporation,Energy,NYSE
+101,BP,EOD/BP,BP p.l.c.,Energy,NYSE
+102,ENB,EOD/ENB,Enbridge Inc.,Energy,NYSE
+103,PBR,EOD/PBR,Petróleo Brasileiro S.A. - Petrobras,Energy,NYSE
+104,COP,EOD/COP,ConocoPhillips,Energy,NYSE
+105,EQNR,EOD/EQNR,Equinor ASA,Energy,NYSE
+106,CEO,EOD/CEO,CNOOC Limited,Energy,NYSE
+107,EPD,EOD/EPD,Enterprise Products Partners L.P.,Energy,NYSE
+108,TRP,EOD/TRP,TC Energy Corporation,Energy,NYSE
+109,E,EOD/E,Eni S.p.A.,Energy,NYSE
+110,EOG,EOD/EOG,"EOG Resources, Inc.",Energy,NYSE
+111,SLB,EOD/SLB,Schlumberger Limited,Energy,NYSE
+112,PSX,EOD/PSX,Phillips 66,Energy,NYSE
+113,MPC,EOD/MPC,Marathon Petroleum Corporation,Energy,NYSE
+114,KMI,EOD/KMI,"Kinder Morgan, Inc.",Energy,NYSE
+115,CNQ,EOD/CNQ,Canadian Natural Resources Limited,Energy,NYSE
+116,VLO,EOD/VLO,Valero Energy Corporation,Energy,NYSE
+117,PXD,EOD/PXD,Pioneer Natural Resources Company,Energy,NYSE
+118,JPM,EOD/JPM,JPMorgan Chase & Co.,Finalcial Services,NYSE
+119,V,EOD/V,Visa Inc.,Finalcial Services,NYSE
+120,BAC,EOD/BAC,Bank of America Corporation,Finalcial Services,NYSE
+121,PYPL,EOD/PYPL,"PayPal Holdings, Inc.",Finalcial Services,NASDAQ
+122,MA,EOD/MA,Mastercard Incorporated,Finalcial Services,NYSE
+123,JNJ,EOD/JNJ,Johnson & Johnson,Healthcare,NYSE
+124,UNH,EOD/UNH,UnitedHealth Group Incorporated,Healthcare,NYSE
+125,ABT,EOD/ABT,Abbott Laboratories,Healthcare,NYSE
+126,NVS,EOD/NVS,Novartis AG,Healthcare,NYSE
+127,LLY,EOD/LLY,Eli Lilly and Company,Healthcare,NYSE
+128,PFE,EOD/PFE,Pfizer Inc.,Healthcare,NYSE
+129,TMO,EOD/TMO,Thermo Fisher Scientific Inc.,Healthcare,NYSE
+130,MRK,EOD/MRK,"Merck & Co., Inc.",Healthcare,NYSE
+131,ABBV,EOD/ABBV,AbbVie Inc.,Healthcare,NYSE
+132,NVO,EOD/NVO,Novo Nordisk A/S,Healthcare,NYSE
+133,DHR,EOD/DHR,Danaher Corporation,Healthcare,NYSE
+134,MDT,EOD/MDT,Medtronic plc,Healthcare,NYSE
+135,BMY,EOD/BMY,Bristol-Myers Squibb Company,Healthcare,NYSE
+136,AMGN,EOD/AMGN,Amgen Inc.,Healthcare,NASDAQ
+137,AZN,EOD/AZN,AstraZeneca PLC,Healthcare,NYSE
+138,SNY,EOD/SNY,Sanofi,Healthcare,NYSE
+139,CVS,EOD/CVS,CVS Health Corporation,Healthcare,NYSE
+140,SYK,EOD/SYK,Stryker Corporation,Healthcare,NYSE
+141,ISRG,EOD/ISRG,"Intuitive Surgical, Inc.",Healthcare,NASDAQ
+142,GSK,EOD/GSK,GlaxoSmithKline plc,Healthcare,NYSE
+143,GILD,EOD/GILD,"Gilead Sciences, Inc.",Healthcare,NASDAQ
+144,ZTS,EOD/ZTS,Zoetis Inc.,Healthcare,NYSE
+145,ANTM,EOD/ANTM,"Anthem, Inc.",Healthcare,NYSE
+146,BDX,EOD/BDX,"Becton, Dickinson and Company",Healthcare,NYSE
+147,HON,EOD/HON,Honeywell International Inc.,Industrials,NYSE
+148,UNP,EOD/UNP,Union Pacific Corporation,Industrials,NYSE
+149,UPS,EOD/UPS,"United Parcel Service, Inc.",Industrials,NYSE
+150,BA,EOD/BA,The Boeing Company,Industrials,NYSE
+151,CAT,EOD/CAT,Caterpillar Inc.,Industrials,NYSE
+152,RTX,EOD/RTX,Raytheon Technologies Corporation,Industrials,NYSE
+153,GE,EOD/GE,General Electric Company,Industrials,NYSE
+154,DE,EOD/DE,Deere & Company,Industrials,NYSE
+155,MMM,EOD/MMM,3M Company,Industrials,NYSE
+156,LMT,EOD/LMT,Lockheed Martin Corporation,Industrials,NYSE
+157,CNI,EOD/CNI,Canadian National Railway Company,Industrials,NYSE
+158,ADP,EOD/ADP,"Automatic Data Processing, Inc.",Industrials,NASDAQ
+159,CSX,EOD/CSX,CSX Corporation,Industrials,NYSE
+160,FDX,EOD/FDX,FedEx Corporation,Industrials,NYSE
+161,NSC,EOD/NSC,Norfolk Southern Corporation,Industrials,NYSE
+162,ITW,EOD/ITW,Illinois Tool Works Inc.,Industrials,NYSE
+163,ABB,EOD/ABB,ABB Ltd,Industrials,NYSE
+164,GPN,EOD/GPN,Global Payments Inc.,Industrials,NYSE
+165,EMR,EOD/EMR,Emerson Electric Co.,Industrials,NYSE
+166,ETN,EOD/ETN,Eaton Corporation plc,Industrials,NYSE
+167,NOC,EOD/NOC,Northrop Grumman Corporation,Industrials,NYSE
+168,CP,EOD/CP,Canadian Pacific Railway Limited,Industrials,NYSE
+169,GD,EOD/GD,General Dynamics Corporation,Industrials,NYSE
+170,WM,EOD/WM,"Waste Management, Inc.",Industrials,NYSE
+171,ROP,EOD/ROP,"Roper Technologies, Inc.",Industrials,NYSE
+172,AMT,EOD/AMT,American Tower Corporation (REIT),Real Estate,NYSE
+173,BEKE,EOD/BEKE,KE Holdings Inc.,Real Estate,NYSE
+174,PLD,EOD/PLD,"Prologis, Inc.",Real Estate,NYSE
+175,CCI,EOD/CCI,Crown Castle International Corp. (REIT),Real Estate,NYSE
+176,EQIX,EOD/EQIX,"Equinix, Inc. (REIT)",Real Estate,NASDAQ
+177,PSA,EOD/PSA,Public Storage,Real Estate,NYSE
+178,DLR,EOD/DLR,"Digital Realty Trust, Inc.",Real Estate,NYSE
+179,CSGP,EOD/CSGP,"CoStar Group, Inc.",Real Estate,NASDAQ
+180,SPG,EOD/SPG,"Simon Property Group, Inc.",Real Estate,NYSE
+181,SBAC,EOD/SBAC,SBA Communications Corporation,Real Estate,NASDAQ
+182,WELL,EOD/WELL,Welltower Inc.,Real Estate,NYSE
+183,WY,EOD/WY,Weyerhaeuser Company,Real Estate,NYSE
+184,EQR,EOD/EQR,Equity Residential,Real Estate,NYSE
+185,AVB,EOD/AVB,"AvalonBay Communities, Inc.",Real Estate,NYSE
+186,CBRE,EOD/CBRE,"CBRE Group, Inc.",Real Estate,NYSE
+187,O,EOD/O,Realty Income Corporation,Real Estate,NYSE
+188,ARE,EOD/ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,NYSE
+189,VTR,EOD/VTR,"Ventas, Inc.",Real Estate,NYSE
+190,AAPL,EOD/AAPL,Apple Inc.,Technology,NASDAQ
+191,MSFT,EOD/MSFT,Microsoft Corporation,Technology,NASDAQ
+192,TSM,EOD/TSM,Taiwan Semiconductor Manufacturing Company Limited,Technology,NYSE
+193,NVDA,EOD/NVDA,NVIDIA Corporation,Technology,NASDAQ
+194,INTC,EOD/INTC,Intel Corporation,Technology,NASDAQ
+195,ASML,EOD/ASML,ASML Holding N.V.,Technology,NASDAQ
+196,ADBE,EOD/ADBE,Adobe Inc.,Technology,NASDAQ
+197,CRM,EOD/CRM,"salesforce.com, inc.",Technology,NYSE
+198,AVGO,EOD/AVGO,Broadcom Inc.,Technology,NASDAQ
+199,CSCO,EOD/CSCO,"Cisco Systems, Inc.",Technology,NASDAQ
+200,ORCL,EOD/ORCL,Oracle Corporation,Technology,NYSE
+201,SHOP,EOD/SHOP,Shopify Inc.,Technology,NYSE
+202,ACN,EOD/ACN,Accenture plc,Technology,NYSE
+203,QCOM,EOD/QCOM,QUALCOMM Incorporated,Technology,NASDAQ
+204,TXN,EOD/TXN,Texas Instruments Incorporated,Technology,NASDAQ
+205,SAP,EOD/SAP,SAP SE,Technology,NYSE
+206,SNE,EOD/SNE,Sony Corporation,Technology,NYSE
+207,SQ,EOD/SQ,"Square, Inc.",Technology,NYSE
+208,INTU,EOD/INTU,Intuit Inc.,Technology,NASDAQ
+209,NOW,EOD/NOW,"ServiceNow, Inc.",Technology,NYSE
+210,AMAT,EOD/AMAT,"Applied Materials, Inc.",Technology,NASDAQ
+211,AMD,EOD/AMD,"Advanced Micro Devices, Inc.",Technology,NYSE
+212,UBER,EOD/UBER,"Uber Technologies, Inc.",Technology,NYSE
+213,IBM,EOD/IBM,International Business Machines Corporation,Technology,NYSE
+214,MU,EOD/MU,"Micron Technology, Inc.",Technology,NASDAQ
+215,NEE,EOD/NEE,"NextEra Energy, Inc.",Utilities,NYSE
+216,DUK,EOD/DUK,Duke Energy Corporation,Utilities,NYSE
+217,SO,EOD/SO,The Southern Company,Utilities,NYSE
+218,DCUE,EOD/DCUE,"Dominion Energy, Inc.",Utilities,NYSE
+219,D,EOD/D,"Dominion Energy, Inc.",Utilities,NYSE
+220,NGG,EOD/NGG,National Grid plc,Utilities,NYSE
+221,EXC,EOD/EXC,Exelon Corporation,Utilities,NYSE
+222,AEP,EOD/AEP,"American Electric Power Company, Inc.",Utilities,NYSE
+223,SRE,EOD/SRE,Sempra Energy,Utilities,NYSE
+224,XEL,EOD/XEL,Xcel Energy Inc.,Utilities,NYSE
+225,PEG,EOD/PEG,Public Service Enterprise Group Incorporated,Utilities,NYSE
+226,AWK,EOD/AWK,"American Water Works Company, Inc.",Utilities,NYSE
+227,ES,EOD/ES,Eversource Energy,Utilities,NYSE
+228,WEC,EOD/WEC,"WEC Energy Group, Inc.",Utilities,NYSE
+229,DTE,EOD/DTE,DTE Energy Company,Utilities,NYSE
+230,PCG,EOD/PCG,PG&E Corporation,Utilities,NYSE
+231,ED,EOD/ED,"Consolidated Edison, Inc.",Utilities,NYSE
+232,PPL,EOD/PPL,PPL Corporation,Utilities,NYSE
+233,EIX,EOD/EIX,Edison International,Utilities,NYSE
+234,AES,EOD/AES,The AES Corporation,Utilities,NYSE
+235,ETR,EOD/ETR,Entergy Corporation,Utilities,NYSE
+236,FTS,EOD/FTS,Fortis Inc.,Utilities,NYSE
+237,FE,EOD/FE,FirstEnergy Corp.,Utilities,NYSE
